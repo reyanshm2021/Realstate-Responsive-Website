@@ -13,3 +13,4 @@
 ◽Developed first with the Mobile First methodology, then for desktop.
 
 ◽Compatible with all mobile devices and with a beautiful and pleasant user interface.
+![preview](https://github.com/mohitlavania07/Realstate-Responsive-Website/assets/117350402/37b1384d-c688-435e-a322-6208fe0e36ae)
